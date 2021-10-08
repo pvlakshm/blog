@@ -1,5 +1,5 @@
 # IntelliTest / Pex
-[A Characteristic study of Parameterized Unit Tests in .NET Open Source Projects, ECOOP 2018](http://drops.dagstuhl.de/opus/volltexte/2018/9210/pdf/LIPIcs-ECOOP-2018-5.pdf){:target="_blank"}
+[A Characteristic study of Parameterized Unit Tests in .NET Open Source Projects, ECOOP 2018](http://drops.dagstuhl.de/opus/volltexte/2018/9210/pdf/LIPIcs-ECOOP-2018-5.pdf)  
 [Transferring Software Testing Tools to Practice, SIGSOFT / ACM Webinar, June 2016]()  
 [The IntelliTest Reference Manual, MSDN DevOps Blog, June 2016]()  
 [Advances in Unit Testing: Theory and Practice, Proceeding ICSE '16 Proceedings of the 38th International Conference on Software Engineering Companion, May 2016]()  
