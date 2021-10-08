@@ -1,15 +1,15 @@
 # IntelliTest / Pex
-[A Characteristic study of Parameterized Unit Tests in .NET Open Source Projects](http://drops.dagstuhl.de/opus/volltexte/2018/9210/pdf/LIPIcs-ECOOP-2018-5.pdf), ECOOP 2018.  
-[Transferring Software Testing Tools to Practice](https://www.youtube.com/watch?v=wtoc9UjBjGI&t=135s), SIGSOFT / ACM Webinar, June 2016.  
-[The IntelliTest Reference Manual](https://devblogs.microsoft.com/devops/the-intellitest-reference-manual/), MSDN DevOps Blog, June 2016.  
-[Advances in Unit Testing: Theory and Practice](https://dl.acm.org/doi/10.1145/2889160.2891056), Proceeding ICSE '16 Proceedings of the 38th International Conference on Software Engineering Companion, May 2016.  
-[IntelliTest – hands on](https://devblogs.microsoft.com/devops/intellitest-hands-on/), MSDN DevOps Blog, August 2015.  
-[IntelliTest – One Test to rule them all](https://devblogs.microsoft.com/devops/intellitest-one-test-to-rule-them-all/), MSDN DevOps Blog, July 2015.  
-[Smart Unit Tests – Test to Code Binding, Test Case Management](https://devblogs.microsoft.com/devops/smart-unit-tests-test-to-code-binding-test-case-management/), MSDN DevOps Blog, April 2015.  
-[Visual Studio 2015 – Build Better Software with Smart Unit Tests](https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/february/visual-studio-2015-build-better-software-with-smart-unit-tests), MSDN Magazine, February 2015.  
-[Smart Unit Tests – a mental model](https://devblogs.microsoft.com/devops/smart-unit-tests-a-mental-model/), MSDN DevOps Blog, December 2014.  
-[Testing Software using PEX](https://dotnetrocks.com/default.aspx?showNum=1065), .NET Rocks!, November 2014.  
-[Introducing Smart Unit Tests](https://devblogs.microsoft.com/devops/introducing-smart-unit-tests/), MSDN DevOps Blog, November 2014.  
+- [A Characteristic study of Parameterized Unit Tests in .NET Open Source Projects](http://drops.dagstuhl.de/opus/volltexte/2018/9210/pdf/LIPIcs-ECOOP-2018-5.pdf), ECOOP 2018.  
+- [Transferring Software Testing Tools to Practice](https://www.youtube.com/watch?v=wtoc9UjBjGI&t=135s), SIGSOFT / ACM Webinar, June 2016.  
+- [The IntelliTest Reference Manual](https://devblogs.microsoft.com/devops/the-intellitest-reference-manual/), MSDN DevOps Blog, June 2016.  
+- [Advances in Unit Testing: Theory and Practice](https://dl.acm.org/doi/10.1145/2889160.2891056), Proceeding ICSE '16 Proceedings of the 38th International Conference on Software Engineering Companion, May 2016.  
+- [IntelliTest – hands on](https://devblogs.microsoft.com/devops/intellitest-hands-on/), MSDN DevOps Blog, August 2015.  
+- [IntelliTest – One Test to rule them all](https://devblogs.microsoft.com/devops/intellitest-one-test-to-rule-them-all/), MSDN DevOps Blog, July 2015.  
+- [Smart Unit Tests – Test to Code Binding, Test Case Management](https://devblogs.microsoft.com/devops/smart-unit-tests-test-to-code-binding-test-case-management/), MSDN DevOps Blog, April 2015.  
+- [Visual Studio 2015 – Build Better Software with Smart Unit Tests](https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/february/visual-studio-2015-build-better-software-with-smart-unit-tests), MSDN Magazine, February 2015.  
+- [Smart Unit Tests – a mental model](https://devblogs.microsoft.com/devops/smart-unit-tests-a-mental-model/), MSDN DevOps Blog, December 2014.  
+- [Testing Software using PEX](https://dotnetrocks.com/default.aspx?showNum=1065), .NET Rocks!, November 2014.  
+- [Introducing Smart Unit Tests](https://devblogs.microsoft.com/devops/introducing-smart-unit-tests/), MSDN DevOps Blog, November 2014.  
 
 ## DevOps for IoT
 [DevOps for IoT with Win10 IoT Core, UWP, and VSTS, MSDN DevOps Blog, March 2018](https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/)
