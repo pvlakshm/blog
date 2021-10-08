@@ -12,14 +12,14 @@
 - [Introducing Smart Unit Tests](https://devblogs.microsoft.com/devops/introducing-smart-unit-tests/), MSDN DevOps Blog, November 2014.  
 
 ## DevOps for IoT
-[DevOps for IoT with Win10 IoT Core, UWP, and VSTS, MSDN DevOps Blog, March 2018](https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/)
+- [DevOps for IoT with Win10 IoT Core, UWP, and VSTS](https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/)https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/, MSDN DevOps Blog, March 2018.  
 
 ## Continuous Testing with Test Impact Analysis
-[Accelerated Continuous Testing with Test Impact Analysis – Part 4, MSDN DevOps Blog, August 2017]()  
-[Accelerated Continuous Testing with Test Impact Analysis – Part 3, MSDN DevOps Blog, June 2017]()  
-[Accelerated Continuous Testing with Test Impact Analysis – Part 2, MSDN DevOps Blog, May 2017]()  
-[Accelerated Continuous Testing with Test Impact Analysis – Part 1, MSDN DevOps Blog, March 2017]()  
-[Accelerated Continuous Testing with Test Impact Analysis, Continuous Testing Meetup at Solidify, Stockholm, September 2017]()  
+- [Accelerated Continuous Testing with Test Impact Analysis – Part 4](https://devblogs.microsoft.com/devops/accelerated-continuous-testing-with-test-impact-analysis-part-4/), MSDN DevOps Blog, August 2017.  
+- [Accelerated Continuous Testing with Test Impact Analysis – Part 3](https://devblogs.microsoft.com/devops/accelerated-continuous-testing-with-test-impact-analysis-part-3/), MSDN DevOps Blog, June 2017.  
+- [Accelerated Continuous Testing with Test Impact Analysis – Part 2](https://devblogs.microsoft.com/devops/accelerated-continuous-testing-with-test-impact-analysis-part-2/), MSDN DevOps Blog, May 2017.  
+- [Accelerated Continuous Testing with Test Impact Analysis – Part 1](https://devblogs.microsoft.com/devops/accelerated-continuous-testing-with-test-impact-analysis-part-1/), MSDN DevOps Blog, March 2017.  
+- [Accelerated Continuous Testing with Test Impact Analysis](https://solidify.se/continuous-testing-meetup-thursday-14th-swedish), Continuous Testing Meetup at Solidify, Stockholm, September 2017.  
 
 ## Automated Testing, Test Frameworks, Visual Studio Test Platform
 [MSTest V2: in-assembly parallel test execution, MSDN DevOps Blog, January 2018]()  
