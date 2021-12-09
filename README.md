@@ -13,7 +13,7 @@
 - [Introducing Smart Unit Tests](https://devblogs.microsoft.com/devops/introducing-smart-unit-tests/), MSDN DevOps Blog, November 2014.  
 
 ## DevOps for IoT
-- [DevOps for IoT with Win10 IoT Core, UWP, and VSTS](https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/)https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/, MSDN DevOps Blog, March 2018.  
+- [DevOps for IoT with Win10 IoT Core, UWP, and VSTS](https://devblogs.microsoft.com/devops/devops-for-iot-with-win10-iot-core-uwp-and-vsts/), MSDN DevOps Blog, March 2018.  
 
 ## Continuous Testing with Test Impact Analysis
 - [Accelerated Continuous Testing with Test Impact Analysis – Part 4](https://devblogs.microsoft.com/devops/accelerated-continuous-testing-with-test-impact-analysis-part-4/), MSDN DevOps Blog, August 2017.  
