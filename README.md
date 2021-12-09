@@ -67,3 +67,6 @@
 - [Delegates in Action with J#](https://web.archive.org/web/20050321183707/http://msdn.microsoft.com:80/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/bjdelegatesinaction3.asp), Visual J# .NET Developer Center, January 2005.  
 - [Solving Constraints with J#](https://web.archive.org/web/20050402042856/http://msdn.microsoft.com:80/vjsharp/default.aspx?pull=/library/en-us/dv_vstechart/html/bjconstraints.asp), Visual J# .NET Developer Center, January 2005.  
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
+
+## Misc
+- [The Indian Fountain Pen : lessons from the Quartz Crisis](https://www.inkedhappiness.com/the-indian-fountain-pen-industry-lessons-for-success-from-the-quartz-crisis-pratap-lakshman/), Inked Happiness, May 2021
