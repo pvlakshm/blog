@@ -8,4 +8,5 @@
 | Chennai           | ASA, Gama                   |
 | Thiruvallur       | Ranga                       |
 | Kolkata           | Sulekha                     |
+| Aurangabad        | Mohi                        |
 | Kanpur            | Kanwrite                    |
