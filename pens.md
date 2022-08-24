@@ -3,8 +3,9 @@
 | ----------------- | --------------------------- |
 | Hyderabad         | Deccan, Sultan, Misak       |
 | Rajahmundry       | Ratnam, Ratnamson, Guider   |
-| Tenali            | Prasad                      |
+| Tenali            | Prasad, Asoka               |
 | Warangal          | Merlin                      |
 | Chennai           | ASA, Gama                   |
 | Thiruvallur       | Ranga                       |
+| Kolkata           | Sulekha                     |
 | Kanpur            | Kanwrite                    |
