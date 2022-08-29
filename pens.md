@@ -1,7 +1,7 @@
 # Pens from various parts of India
 | Region            | Brand                                |
 | ----------------- | ------------------------------------ |
-| Hyderabad         | Deccan, Sultan, Misak, Hema          |
+| Hyderabad         | Deccan, Hilal, Misak, Hema           |
 | Rajahmundry       | Ratnam, Ratnamson, Guider            |
 | Bhimavaram        | Brahmam                              |
 | Tenali            | Prasad, Asoka                        |
