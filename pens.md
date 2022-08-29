@@ -2,10 +2,11 @@
 | Region            | Brand                                |
 | ----------------- | ------------------------------------ |
 | Hyderabad         | Deccan, Sultan, Misak, Hema          |
-| Rajahmundry       | Ratnam, Ratnamson, Guider, Brahmam   |
+| Rajahmundry       | Ratnam, Ratnamson, Guider            |
+| Bhimavaram        | Brahmam                              |
 | Tenali            | Prasad, Asoka                        |
 | Warangal          | Merlin                               |
-| Chennai           | ASA, Gem, Bril                      |
+| Chennai           | ASA, Gem, Bril                       |
 | Thiruvallur       | Ranga                                |
 | Kolkata           | Sulekha                              |
 | Aurangabad        | Mohi                                 |
