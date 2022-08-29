@@ -5,7 +5,7 @@
 | Rajahmundry       | Ratnam, Ratnamson, Guider, Brahmam   |
 | Tenali            | Prasad, Asoka                        |
 | Warangal          | Merlin                               |
-| Chennai           | ASA, Gama, Bril                      |
+| Chennai           | ASA, Gem, Bril                      |
 | Thiruvallur       | Ranga                                |
 | Kolkata           | Sulekha                              |
 | Aurangabad        | Mohi                                 |
