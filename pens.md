@@ -11,4 +11,4 @@
 | Kolkata           | Sulekha                              |
 | Aurangabad        | Mohi                                 |
 | Kanpur            | Kanwrite                             |
-| Mumbai            | Mhatre, Anchor                       |
+| Mumbai            | Mhatre, Anchor, Camelin              |
