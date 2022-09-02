@@ -8,7 +8,7 @@
 | Warangal          | Merlin                               |
 | Chennai           | ASA, Gem, Bril                       |
 | Thiruvallur       | Ranga                                |
-} Kozhikode         | Kim                                  |
+} Kozhikode         | Kim, Kriptok, Amber, Elite           |
 | Kolkata           | Sulekha                              |
 | Aurangabad        | Mohi                                 |
 | Kanpur            | Kanwrite                             |
