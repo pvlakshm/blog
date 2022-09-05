@@ -1,19 +1,20 @@
 # Pens from various parts of India
-| Region            | Brand                                |
-| ----------------- | ------------------------------------ |
-| Hyderabad         | Deccan, Hilal, Misak, Hema           |
-| Rajahmundry       | Ratnam, Ratnamson, Guider            |
-| Bhimavaram        | Brahmam                              |
-| Tenali            | Prasad, Asoka                        |
-| Warangal          | Merlin                               |
-| Machlipatnam      | Swarna                               |
-| Chennai           | ASA, Gem, Bril                       |
-| Thiruvallur       | Ranga                                |
-| Kozhikode         | Kim, Kriptok, Amber, Elite           |
-| Kolkata           | Sulekha                              |
-| Aurangabad        | Mohi                                 |
-| Kanpur            | Kanwrite                             |
-| Mumbai            | Mhatre, Anchor, Camelin              |
+| Region            | Brand                                                |
+| ----------------- | ---------------------------------------------------- |
+| Hyderabad         | Deccan, Hilal, Misak, Hema                           |
+| Rajahmundry       | Ratnam, Ratnamson, Guider                            |
+| Bhimavaram        | Brahmam                                              |
+| Tenali            | Prasad, Asoka                                        |
+| Warangal          | Merlin                                               |
+| Machlipatnam      | Swarna                                               |
+| Chennai           | ASA, Gem, Bril                                       |
+| Thiruvallur       | Ranga                                                |
+| Kozhikode         | Kim, Kriptok, Amber, Elite                           |
+| Kolkata           | Sulekha                                              |
+| Aurangabad        | Mohi                                                 |
+| Kanpur            | Kanpur writers                                       |
+| Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail      |
+| Lucknow           | Anupam Bharatiya                                     |
 
 
 # References
