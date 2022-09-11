@@ -11,11 +11,12 @@
 | Thiruvallur       | Ranga                                                |
 | Kozhikode         | Kim, Kriptok, Amber, Elite                           |
 | Kolkata           | Sulekha                                              |
-| Aurangabad        | Mohi                                                 |
+| Aurangabad        | Mohi, Astra                                          |
 | Kanpur            | Kanpur writers                                       |
 | Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail      |
 | Lucknow           | Anupam Bharatiya                                     |
-
+| Varanasi          | Olympic                                              |
+| Indore            | Unique Pen Industries                                |
 
 # References
 [1] Debroy, Bibek. ["A Fountian Pen Story"](https://www.orfonline.org/wp-content/uploads/2020/06/ORF-Monograph-Fountain-Pen-Story.pdf), Observer Research Foundation, 2020  
