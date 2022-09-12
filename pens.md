@@ -11,7 +11,7 @@
 | Thiruvallur       | Ranga                                                |
 | Kozhikode         | Kim, Kriptok, Amber, Elite                           |
 | Kolkata           | Sulekha                                              |
-| Aurangabad        | Mohi, Astra                                          |
+| Aurangabad        | Abhay Pen Agencies, Astra                            |
 | Kanpur            | Kanpur writers                                       |
 | Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail      |
 | Lucknow           | Anupam Bharatiya                                     |
