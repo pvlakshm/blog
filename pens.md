@@ -12,7 +12,7 @@
 | Kozhikode         | Kim, Kriptok, Amber, Elite                                             |
 | Kolkata           | Sulekha                                                                |
 | Aurangabad        | Abhay Pen Agencies, Astra                                              |
-| Kanpur            | Kanpur writers                                                         |
+| Kanpur            | Kanpwrite                                                              |
 | Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj, National      |
 | Lucknow           | Anupam Bharatiya                                                       |
 | Varanasi          | Olympic                                                                |
