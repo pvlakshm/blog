@@ -18,6 +18,8 @@
 | Varanasi          | Olympic                                                                |
 | Indore            | Unique Pen Industries                                                  |
 | Vadodara          | Vishwakarma Pen Co                                                     |
+| Kochi             | Bismi                                                                  |
+| Thrissur          | Jubilee                                                                |
 
 # References
 [1] Debroy, Bibek. ["A Fountian Pen Story"](https://www.orfonline.org/wp-content/uploads/2020/06/ORF-Monograph-Fountain-Pen-Story.pdf), Observer Research Foundation, 2020  
