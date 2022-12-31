@@ -13,8 +13,8 @@
 | Kolkata           | Sulekha                                                                |
 | Aurangabad        | Abhay Pen Agencies, Astra                                              |
 | Kanpur            | Kanwrite                                                               |
-| Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj, National      |
-| Lucknow           | Anupam Bharatiya                                                       |
+| Mumbai            | Mhatre, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj.               |
+| Lucknow           | Anupam Bharatiya, National                                             |
 | Varanasi          | Olympic                                                                |
 | Indore            | Unique Pen Industries                                                  |
 | Vadodara          | Vishwakarma Pen Co                                                     |
