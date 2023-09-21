@@ -69,4 +69,5 @@
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
 
 ## Misc
+- [Data - from dread to delight](https://www.linkedin.com/posts/pvlakshm_data-from-dread-to-delight-there-used-activity-7104890032489988096-X0q9), LinkedIn, Sep 2023
 - [The Indian Fountain Pen : lessons from the Quartz Crisis](https://www.inkedhappiness.com/the-indian-fountain-pen-industry-lessons-for-success-from-the-quartz-crisis-pratap-lakshman/), Inked Happiness, May 2021
