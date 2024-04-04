@@ -69,5 +69,6 @@
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
 
 ## Misc
+- [The confluence of code assistance and code generation](https://www.linkedin.com/posts/pvlakshm_the-confluence-of-code-assistance-and-code-activity-7110714126741508098-b87S?utm_source=share&utm_medium=member_desktop), LinkedIn, Oct 2023
 - [Data - from dread to delight](https://www.linkedin.com/posts/pvlakshm_data-from-dread-to-delight-there-used-activity-7104890032489988096-X0q9), LinkedIn, Sep 2023
 - [The Indian Fountain Pen : lessons from the Quartz Crisis](https://www.inkedhappiness.com/the-indian-fountain-pen-industry-lessons-for-success-from-the-quartz-crisis-pratap-lakshman/), Inked Happiness, May 2021
