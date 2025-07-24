@@ -69,6 +69,7 @@
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
 
 ## Misc
+- [Book Review - The Soul Of A New Machine, Tracy Kidder](https://www.linkedin.com/feed/update/urn:li:activity:7304942996158849026/), LinkedIn May 2025
 - [From User Interface to Usable Interface](https://www.linkedin.com/posts/pvlakshm_citi-employees-typo-leads-to-an-81-trillion-activity-7303111007759908869-emqR), LinkedIn, Apr 2025
 - [OpenAI o1 vs. DeepSeek R1 – Survivability Characteristics of Closed vs. Open System](https://www.linkedin.com/posts/pvlakshm_ai-llm-activity-7294801235797229570-lLuy), LinkedIn, Mar 2025
 - [Observations on the CrowdStrike Outage](https://www.linkedin.com/posts/pvlakshm_observations-on-the-crowdstrike-outage-85-activity-7224103887799009280-v0kq), LinkedIn, Aug 2024
