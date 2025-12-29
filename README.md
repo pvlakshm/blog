@@ -69,7 +69,7 @@
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
 
 ## Misc
-[AI's impact on CS Education](https://www.linkedin.com/posts/pvlakshm_cseducation-aiineducation-activity-7410422935116652545-ZqPn), LinkedIn, Dec 2025
+- [AI's impact on CS Education](https://www.linkedin.com/posts/pvlakshm_cseducation-aiineducation-activity-7410422935116652545-ZqPn), LinkedIn, Dec 2025
 - [Serverless - Closest to Computation as a Public Utility](https://www.linkedin.com/posts/pvlakshm_cloudcomputing-serverless-softwareengineering-activity-7407123170870296576-mEo_), LinkedIn, Dec 2025
 - [From Satellites to Serverless: The Origins of Observability](https://www.linkedin.com/posts/pvlakshm_observability-devops-sre-activity-7403714898095988738-yk1O), LinkedIn Dec 2025
 - [Book Review - The Soul Of A New Machine, Tracy Kidder](https://www.linkedin.com/feed/update/urn:li:activity:7304942996158849026/), LinkedIn May 2025
