@@ -69,6 +69,7 @@
 - [Visual J# Design Choices: A Conversation with Pratap Lakshman](https://web.archive.org/web/20051016025720/http://www.msdn.microsoft.com/vjsharp/productinfo/news/transcripts/default.aspx), Visual J# .NET Developer Center.  
 
 ## Misc
+- [Build with the user. Call it what you will ](https://www.linkedin.com/posts/pvlakshm_techleadership-customersuccess-softwaredevelopment-share-7440073273905885184-Rj4A), LinkedIn, March 2026 2026
 - [AI and Energy Consumption - 2 CEOs, 2 perspectives!](https://www.linkedin.com/posts/pvlakshm_ai-aienergy-microsoft-activity-7431787711142977536-MiV-), LinkedIn, Feb 2026
 - [The AI Infrastructure Bet](https://www.linkedin.com/posts/pvlakshm_ai-techstrategy-activity-7424137190844305408-J1rE), LinkedIn, Feb 2026
 - [Is AI doing to software development what digital sensors did to film?](https://www.linkedin.com/posts/pvlakshm_%F0%9D%97%9C%F0%9D%98%80-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%B1%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B3%F0%9D%98%81%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-activity-7415463547893395456-QZEz), LinkedIn, Jan 2026
